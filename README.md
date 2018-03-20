@@ -69,3 +69,4 @@ if (error) {
 * [SQLite3 C API](https://www.sqlite.org/capi3ref.html)
 * [NSUserDefaults](https://developer.apple.com/documentation/foundation/userdefaults)
 * [Swift: Interacting with C APIs](https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/InteractingWithCAPIs.html#//apple_ref/doc/uid/TP40014216-CH8-ID17)
+* [SQLite.swift](https://github.com/stephencelis/SQLite.swift)
